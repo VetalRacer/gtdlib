@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/VetalRacer/gtdlib/tdlib"
+	"github.com/vetalracer/gtdlib/tdlib"
 )
 
 // GetAccountTTL Returns the period of inactivity after which the account of the current user will automatically be deleted

@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/VetalRacer/gtdlib/tdlib"
+	"github.com/vetalracer/gtdlib/tdlib"
 )
 
 // GetLanguagePackString Returns a string stored in the local database from the specified localization target and language pack by its key. Returns a 404 error if the string is not found. Can be called synchronously

@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/VetalRacer/gtdlib/tdlib"
+	"github.com/vetalracer/gtdlib/tdlib"
 )
 
 // GetAuthorizationState Returns the current authorization state; this is an offline request. For informational purposes only. Use updateAuthorizationState instead to maintain the current authorization state. Can be called before initialization

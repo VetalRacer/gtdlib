@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/VetalRacer/gtdlib/tdlib"
+	"github.com/vetalracer/gtdlib/tdlib"
 )
 
 // GetChatListsToAddChat Returns chat lists to which the chat can be added. This is an offline request

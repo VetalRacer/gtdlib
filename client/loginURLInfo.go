@@ -5,7 +5,7 @@ package client
 import (
 	"fmt"
 
-	"github.com/VetalRacer/gtdlib/tdlib"
+	"github.com/vetalracer/gtdlib/tdlib"
 )
 
 // GetLoginURLInfo Returns information about a button of type inlineKeyboardButtonTypeLoginUrl. The method needs to be called when the user presses the button

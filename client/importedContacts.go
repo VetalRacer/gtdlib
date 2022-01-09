@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/VetalRacer/gtdlib/tdlib"
+	"github.com/vetalracer/gtdlib/tdlib"
 )
 
 // ImportContacts Adds new contacts or edits existing contacts by their phone numbers; contacts' user identifiers are ignored

@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/VetalRacer/gtdlib/tdlib"
+	"github.com/vetalracer/gtdlib/tdlib"
 )
 
 // GetMessageEmbeddingCode Returns an HTML code for embedding the message. Available only for messages in supergroups and channels with a username

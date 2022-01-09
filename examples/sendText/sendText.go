@@ -7,8 +7,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/VetalRacer/gtdlib/client"
-	"github.com/VetalRacer/gtdlib/tdlib"
+	"github.com/vetalracer/gtdlib/client"
+	"github.com/vetalracer/gtdlib/tdlib"
 )
 
 func main() {

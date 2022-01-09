@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/VetalRacer/gtdlib/tdlib"
+	"github.com/vetalracer/gtdlib/tdlib"
 )
 
 // GetMessageLink Returns an HTTPS link to a message in a chat. Available only for already sent messages in supergroups and channels. This is an offline request

@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/VetalRacer/gtdlib/tdlib"
+	"github.com/vetalracer/gtdlib/tdlib"
 )
 
 // RegisterDevice Registers the currently used device for receiving push notifications. Returns a globally unique identifier of the push notification subscription

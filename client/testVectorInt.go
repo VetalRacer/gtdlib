@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/VetalRacer/gtdlib/tdlib"
+	"github.com/vetalracer/gtdlib/tdlib"
 )
 
 // TestCallVectorInt Returns the received vector of numbers; for testing only. This is an offline method. Can be called before authorization
