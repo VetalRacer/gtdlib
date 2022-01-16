@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/vetalracer/gtdlib/tdlib"
+	"github.com/VetalRacer/gtdlib/tdlib"
 )
 
 // SendCustomRequest Sends a custom request; for bots only

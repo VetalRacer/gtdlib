@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/vetalracer/gtdlib/tdlib"
+	"github.com/VetalRacer/gtdlib/tdlib"
 )
 
 // CreateTemporaryPassword Creates a new temporary password for processing payments

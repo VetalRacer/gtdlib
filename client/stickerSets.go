@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/vetalracer/gtdlib/tdlib"
+	"github.com/VetalRacer/gtdlib/tdlib"
 )
 
 // GetInstalledStickerSets Returns a list of installed sticker sets

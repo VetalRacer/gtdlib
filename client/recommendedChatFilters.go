@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/vetalracer/gtdlib/tdlib"
+	"github.com/VetalRacer/gtdlib/tdlib"
 )
 
 // GetRecommendedChatFilters Returns recommended chat filters for the current user

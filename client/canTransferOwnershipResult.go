@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/vetalracer/gtdlib/tdlib"
+	"github.com/VetalRacer/gtdlib/tdlib"
 )
 
 // CanTransferOwnership Checks whether the current session can be used to transfer a chat ownership to another user

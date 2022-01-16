@@ -21,7 +21,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/vetalracer/gtdlib/tdlib"
+	"github.com/VetalRacer/gtdlib/tdlib"
 )
 
 // EventFilterFunc used to filter out unwanted messages in receiver channels

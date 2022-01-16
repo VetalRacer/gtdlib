@@ -8,8 +8,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/vetalracer/gtdlib/client"
-	"github.com/vetalracer/gtdlib/tdlib"
+	"github.com/VetalRacer/gtdlib/client"
+	"github.com/VetalRacer/gtdlib/tdlib"
 )
 
 var allChats []*tdlib.Chat
